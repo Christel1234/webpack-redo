@@ -1,6 +1,6 @@
 import _ from "lodash";
 import "./style.css";
-import Icon from "./icon.png";
+import Icon from "./assets/images/icon.png";
 import printMe from "./print.js";
 
 function component() {

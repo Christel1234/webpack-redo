@@ -1,6 +1,7 @@
 @font-face {
   font-family: "Rock3D-Regular";
-  src: url("./Rock3D-Regular.ttf") format("truetype");
+  /* src: url("./Rock3D-Regular.ttf") format("truetype"); */
+  src: url("./assets/fonts/Rock3D-Regular.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
 }
@@ -8,5 +9,5 @@
 .hello {
   color: red;
   font-family: "Rock3D-Regular";
-  background: url("./icon.png");
+  background: url("./assets/images/icon.png");
 }

@@ -1,1 +1,8 @@
+#node modules
 node_modules
+
+#environments
+.env*
+
+#dist and cache
+dist
